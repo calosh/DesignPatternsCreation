@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ fly()
+comment1.params=
+comment1.target=int\ getY()
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=boolean\ canFly()
+numComments=4
